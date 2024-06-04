@@ -1,0 +1,16 @@
+venv
+.idea/
+
+# macOS .DS_Store files
+.DS_Store
+
+# Python cache files and directories
+**/__pycache__
+**/*.pyc
+
+# csv files to plot
+eval*.csv
+loss*.csv
+
+# backup pickle models
+part2_model_*.pickle
