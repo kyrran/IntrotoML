@@ -240,8 +240,10 @@ This file is a custom neural network library and includes foundational component
 
 `part1_nn_lib.py` includes an example function `example_main`, demonstrating the creation of a network, data preprocessing, and training with the Trainer class. This example uses the Iris dataset and can be run to see a simple demonstration of how the library components work together.
 
-
-### part2_house_value_regression.py
+-------------
+------------
+-----------
+# part2_house_value_regression.py
 
 ---
 
